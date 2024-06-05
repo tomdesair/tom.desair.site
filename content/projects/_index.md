@@ -3,6 +3,7 @@ title: "Projects"
 description: "Open Source projects I work(ed) on"
 
 cascade:
+  groupByYear: false
   showSummary: true
   invertPagination: true
 ---
